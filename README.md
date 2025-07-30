@@ -25,7 +25,6 @@ A modern authentication system built with **Next.js 14**, **Google OAuth via Nex
 
 ### 🔐 Signin Page
 
-- Supports Google OAuth and email/password login  
 - Error feedback if login fails
 
 ### 📧 Email Verification Page
