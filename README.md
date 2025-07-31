@@ -101,7 +101,7 @@ Make sure you have **Node.js** and **npm** installed.
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/your-auth-app.git
-cd task
+cd task8
 
 # Install dependencies
 npm install
